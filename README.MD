@@ -2,10 +2,10 @@
 
 ![Testes](https://github.com/kalatori/Gerador-de-or-amentos/actions/workflows/testes.yml/badge.svg)
 
-Programa em Python que lê uma lista de serviços e materiais de um arquivo CSV e gera um orçamento pronto para enviar ao cliente, com subtotal, desconto e total.
+Programa em Python que gera um orçamento rápido e pronto para enviar ao cliente, com subtotal, desconto e total.
 
 ## Problema que resolve
-Pequenas empresas, como prestadores de serviços elétricos, perdem tempo montando orçamentos à mão em planilhas. Aqui a ideia é o orçamento sair em segundos.
+Pequenas empresas, como prestadores de serviços elétricos, perdem tempo montando orçamentos à mão em planilhas ou até diretamente no whatsapp. Aqui a ideia é o orçamento sair em poucos minutos.
 
 ## Como rodar
 1. Instale o Python 3.12 ou mais recente.
